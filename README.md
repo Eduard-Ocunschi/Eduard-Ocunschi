@@ -23,4 +23,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Eduard-Ocunschi&icon=8&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Some of My Favorite YouTubers
+https://ytcards.demolab.com/?id=h3bTwCqX4ns&title=Build+a+responsive+website+with+HTML+&+CSS&lang=en&timestamp=1657025860&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>")
