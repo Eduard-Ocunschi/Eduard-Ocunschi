@@ -14,11 +14,12 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Eduard-Ocunschi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Eduard-Ocunschi&theme=gruvbox&hide_border=false)<br/>
+![Codewars](https://github.r2v.ch/codewars?user=Eduard-Ocunschi&stroke=%23BB432C)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduard-Ocunschi&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Eduard-Ocunschi&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Eduard-Ocunschi&icon=8&color=2)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Eduard-Ocunschi&icon=8&color=2)](https://visitcount.itsvg.in) 
 
