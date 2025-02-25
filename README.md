@@ -9,7 +9,7 @@
 * #### [ React Weather App ](https://react-weather-appv2-remake.netlify.app/) (Fully Responsive)
 * #### [ React Shopping List ](https://eduard-shopping-list.netlify.app/) (Fully Responsive)
 * #### [ Vanilla JavaScript Weather App ](https://eduard-weather-app.netlify.app/) (Fully Responsive)
-* #### [ Vanilla JavaScript  Single Page Trivia App ](https://trivia-app-eduard.netlify.app/) (Responsiveness down to tablet size, not for mobile.)
+* #### [ Vanilla JavaScript  Single Page App Trivia ](https://trivia-app-eduard.netlify.app/) (Responsiveness down to tablet size, not for mobile.)
 * #### [ Simple Object-Oriented Programming Counter, Stopwatch and Clock Builder ](https://counter-stopwatch-clock.netlify.app/) (Fully Responsive)
 * #### [ Vanilla Javascript To Do List ](https://eduard-to-do-list.netlify.app/) (Fully Responsive)
 
