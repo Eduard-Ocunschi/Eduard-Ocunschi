@@ -6,9 +6,10 @@
 
 ## 💡 Some Of My Projects (Code and Links also in the Repositories)
 * #### [ The Memories Book ](https://the-memories-book.netlify.app/) (Responsiveness down to tablet size, not for mobile.)
+  Both the React Weather App and the Vanilla JavaScript Weather App look almost the same, but they are completely differently written.
 * #### [ React Weather App ](https://react-weather-appv2-remake.netlify.app/) (Fully Responsive)
-* #### [ React Shopping List ](https://eduard-shopping-list.netlify.app/) (Fully Responsive)
 * #### [ Vanilla JavaScript Weather App ](https://eduard-weather-app.netlify.app/) (Fully Responsive)
+* #### [ React Shopping List ](https://eduard-shopping-list.netlify.app/) (Fully Responsive)
 * #### [ Vanilla JavaScript  Single Page App (SPA) Trivia ](https://trivia-app-eduard.netlify.app/) (Responsiveness down to tablet size, not for mobile.)
 * #### [ Simple Object-Oriented Programming Counter, Stopwatch and Clock Builder ](https://counter-stopwatch-clock.netlify.app/) (Fully Responsive)
 * #### [ Vanilla Javascript To Do List ](https://eduard-to-do-list.netlify.app/) (Fully Responsive)
