@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Eduard!
-**I'm an aspiring software developer currently learning through a bootcamp. Transitioning from a career as a professional athlete, I'm now focusing on coding and sharing my progress here on GitHub.**
+**I'm a software developer who recently completed a bootcamp. Transitioning from a career as a professional athlete, I am now focused on coding and sharing my progress here on GitHub.**
 ## 🔧 What I’m Up To
-* Bootcamp: Deepening my skills in JavaScript
+* Studying: Deepening my skills in JavaScript and React
 * Projects: Showcasing my learning and experiments
 
 
