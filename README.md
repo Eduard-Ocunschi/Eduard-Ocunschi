@@ -6,7 +6,7 @@
   
 
 ## 🤸‍♂️ What I'm Working On These Days...?
-* #### Currently rewriting The Memories Book project from JavaScript + React to TypeScript + React.
+* #### Currently, building for a client,  my first freelanding project, a landing page in Next.js, SEO and a11y friendly.
 
 
 ## 💡 Some Of My Projects (Code and Links also in the Repositories)
